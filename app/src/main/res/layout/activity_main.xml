@@ -27,7 +27,7 @@
         />
 
     <EditText
-        android:id="@+id/editTextText4"
+        android:id="@+id/eT1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="15dp"
@@ -41,7 +41,7 @@
         android:autofillHints="hello" />
 
     <EditText
-        android:id="@+id/editTextText5"
+        android:id="@+id/eT2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="15dp"
@@ -53,7 +53,7 @@
         android:minHeight="48dp" />
 
     <EditText
-        android:id="@+id/editTextText6"
+        android:id="@+id/eT3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="15dp"
